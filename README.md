@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ishaq ahnaf khan
 - 👀 I’m interested in programming.
-- - 🌱 I’m currently learning web development. More specifically fornt-end development.
+- 🌱 I’m currently learning web development. More specifically fornt-end development.
 - 💞️ I’m looking to collaborate on learning together
 - 📫 you can mail me ishaqahnafkhan@gmail.com
 
